@@ -1,2 +1,3 @@
-# simple-demo
-this is a simple repository for training
+# Simple Example Repository
+
+this is just an example repository for training
